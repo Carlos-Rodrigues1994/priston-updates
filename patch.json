@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "news": "Bem-vindo ao Priston Tale!\n\nAtualização v1.0.1 aplicada com sucesso:\n- Novo Game.exe atualizado.\n- Mensagens de aging corrigidas ('O Aging falhou' / alerta do Moriph).\n- Tela de login clássica original do Priston Tale em alta definição.\n- Novo ícone VIP visível e contagem de tempo nos bônus premium.\n- Sistema de Launcher Oficial com auto-update público.\n\nBom jogo a todos!",
+  "version": "1.0.2",
+  "news": "Bem-vindo ao Priston Tale!\n\nAtualização v1.0.2 aplicada:\n- Nova arte oficial da tela de login atualizada.\n- Sistema de Launcher Oficial com auto-update.\n- Mensagens de aging corrigidas ('O Aging falhou' / alerta do Moriph).\n- Ícones VIP integrados aos bônus premium.\n\nBom jogo a todos!",
   "files": [
     {
       "name": "Game.exe",
@@ -11,8 +11,8 @@
     {
       "name": "game/images/login/bg1.png",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/game/images/login/bg1.png",
-      "md5": "ad4c28614dfe343937195e587a776a97",
-      "size": 4241867
+      "md5": "0fb22fb5166f5d6373711ba8e26a285c",
+      "size": 6129748
     },
     {
       "name": "game/images/premium/Vip.png",
