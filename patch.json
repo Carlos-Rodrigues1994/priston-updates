@@ -1,7 +1,17 @@
 {
-  "version": "1.0.2",
-  "news": "Bem-vindo ao Priston Tale!\n\nAtualização v1.0.2 aplicada:\n- Nova arte oficial da tela de login atualizada.\n- Sistema de Launcher Oficial com auto-update.\n- Mensagens de aging corrigidas ('O Aging falhou' / alerta do Moriph).\n- Ícones VIP integrados aos bônus premium.\n\nBom jogo a todos!",
+  "version": "1.0.3",
+  "news": "Bem-vindo ao Priston Tale!\n\nAtualização v1.0.3:\n- Indicador de status do servidor em tempo real (Online/Offline/Manutenção).\n- Launcher atualizado com verificação dinâmica da porta 3390.\n- Nova arte oficial da tela de login em HD.\n- Mensagens de aging corrigidas ('O Aging falhou').\n- Ícones VIP integrados aos bônus premium.\n\nBom jogo a todos!",
+  "server_status": "auto",
+  "server_ip": "54.233.10.144",
+  "server_port": 3390,
+  "server_message": "",
   "files": [
+    {
+      "name": "Launcher.exe",
+      "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Launcher.exe",
+      "md5": "334c81cf72f09bfbf390804f25e97fcb",
+      "size": 33792
+    },
     {
       "name": "Game.exe",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
