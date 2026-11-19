@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "news": "Bem-vindo ao Priston Tale!\n\nAtualização v1.0.4:\n- Arquivo de configuração de fórmulas de Mix (Mix.ini) sincronizado.\n- Indicador de status do servidor em tempo real (Online/Offline/Manutenção).\n- Nova arte oficial da tela de login em HD.\n- Mensagens de aging corrigidas ('O Aging falhou').\n- Ícones VIP integrados aos bônus premium.\n\nBom jogo a todos!",
+  "version": "1.0.5",
+  "news": "Bem-vindo ao Priston Tale!\n\nAtualização v1.0.5:\n- Correção crítica no sistema de Mix de Sheltoms (suporte completo a Bellum e Ordo).\n- Arquivo Mix.ini sincronizado no servidor e cliente.\n- Indicador de status do servidor em tempo real (Online/Offline/Manutenção).\n- Nova arte oficial da tela de login em HD.\n- Mensagens de aging corrigidas ('O Aging falhou').\n\nBom jogo a todos!",
   "server_status": "auto",
   "server_ip": "54.233.10.144",
   "server_port": 3390,
@@ -21,8 +21,8 @@
     {
       "name": "Game.exe",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-      "md5": "7d35ea2fdac82457fa0cd9435ec6db74",
-      "size": 11008512
+      "md5": "a15ce6bcd23b582c057e3c05588ba6c5",
+      "size": 11010048
     },
     {
       "name": "game/images/login/bg1.png",
