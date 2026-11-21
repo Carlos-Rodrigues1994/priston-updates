@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "news": "Bem-vindo ao Priston Tale!\n\nAtualização v1.0.5:\n- Correção crítica no sistema de Mix de Sheltoms (suporte completo a Bellum e Ordo).\n- Arquivo Mix.ini sincronizado no servidor e cliente.\n- Indicador de status do servidor em tempo real (Online/Offline/Manutenção).\n- Nova arte oficial da tela de login em HD.\n- Mensagens de aging corrigidas ('O Aging falhou').\n\nBom jogo a todos!",
+  "version": "1.0.6",
+  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.6:\n- Identidade oficial atualizada para OrientePT/PK no Launcher e no Jogo.\n- Botão JOGAR bloqueado automaticamente quando o servidor estiver Offline ou em Manutenção.\n- Interface do Launcher limpa e otimizada (auto-atualização segura do Launcher).\n- Correção crítica no sistema de Mix de Sheltoms (suporte completo a Bellum e Ordo).\n- Mensagens de aging corrigidas ('O Aging falhou').\n\nBom jogo a todos!",
   "server_status": "auto",
   "server_ip": "54.233.10.144",
   "server_port": 3390,
@@ -13,15 +13,9 @@
       "size": 9252
     },
     {
-      "name": "Launcher.exe",
-      "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Launcher.exe",
-      "md5": "334c81cf72f09bfbf390804f25e97fcb",
-      "size": 33792
-    },
-    {
       "name": "Game.exe",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-      "md5": "a15ce6bcd23b582c057e3c05588ba6c5",
+      "md5": "a2947514726c6246e6773a289b7de3b4",
       "size": 11010048
     },
     {
@@ -41,6 +35,12 @@
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/game/images/premium/Vip_.png",
       "md5": "a6a7566d9fba9e2702da38bc647a6bbe",
       "size": 2481
+    },
+    {
+      "name": "Launcher.exe",
+      "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Launcher.exe",
+      "md5": "953d0dda2ce9db52ed5a6fa02d846c3f",
+      "size": 33792
     }
   ]
 }
