@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.6:\n- Identidade oficial atualizada para OrientePT/PK no Launcher e no Jogo.\n- Botão JOGAR bloqueado automaticamente quando o servidor estiver Offline ou em Manutenção.\n- Interface do Launcher limpa e otimizada (auto-atualização segura do Launcher).\n- Correção crítica no sistema de Mix de Sheltoms (suporte completo a Bellum e Ordo).\n- Mensagens de aging corrigidas ('O Aging falhou').\n\nBom jogo a todos!",
+  "version": "1.0.7",
+  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.7:\n- Correção crítica de renderização 3D (personagens, NPCs, monstros e mapa com sombras dinâmicas).\n- Ajuste na tela de login para exibir a arte de fundo ajustada corretamente à resolução da janela.\n- Identidade oficial OrientePT/PK mantida na barra de título e no Launcher.\n\nBom jogo a todos!",
   "server_status": "auto",
   "server_ip": "54.233.10.144",
   "server_port": 3390,
@@ -15,7 +15,7 @@
     {
       "name": "Game.exe",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-      "md5": "a2947514726c6246e6773a289b7de3b4",
+      "md5": "ef3f1dfd3d70db154cd1c03cf9bb6c31",
       "size": 11010048
     },
     {
