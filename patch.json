@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.7:\n- Correção crítica de renderização 3D (personagens, NPCs, monstros e mapa com sombras dinâmicas).\n- Ajuste na tela de login para exibir a arte de fundo ajustada corretamente à resolução da janela.\n- Identidade oficial OrientePT/PK mantida na barra de título e no Launcher.\n\nBom jogo a todos!",
+  "version": "1.0.8",
+  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.8:\n- Removida a exibição de IP e porta abaixo do status no Launcher.\n- Barra de título do jogo limpa exibindo apenas \"OrientePT/PK\" (sem número de versão).\n- Removida a opção \"Login Animado\" da tela de login.\n- Comando /level (GM 4) atualizado com suporte para regredir nível (ex.: /level 110 ou /level -10).\n\nBom jogo a todos!",
   "server_status": "auto",
   "server_ip": "54.233.10.144",
   "server_port": 3390,
@@ -15,8 +15,8 @@
     {
       "name": "Game.exe",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-      "md5": "ef3f1dfd3d70db154cd1c03cf9bb6c31",
-      "size": 11010048
+      "md5": "a1490de1c906c99db65c5f2a133c8f6a",
+      "size": 11012096
     },
     {
       "name": "game/images/login/bg1.png",
@@ -39,8 +39,8 @@
     {
       "name": "Launcher.exe",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Launcher.exe",
-      "md5": "953d0dda2ce9db52ed5a6fa02d846c3f",
-      "size": 33792
+      "md5": "5373f0bdc0e69158e428c224757b493f",
+      "size": 35840
     }
   ]
 }
