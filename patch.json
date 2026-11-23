@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.8:\n- Removida a exibição de IP e porta abaixo do status no Launcher.\n- Barra de título do jogo limpa exibindo apenas \"OrientePT/PK\" (sem número de versão).\n- Removida a opção \"Login Animado\" da tela de login.\n- Comando /level (GM 4) atualizado com suporte para regredir nível (ex.: /level 110 ou /level -10).\n\nBom jogo a todos!",
+  "version": "1.0.9",
+  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.9:\n- Correção de itens sem imagem no inventário, loja, baú e troca (incluindo armas Verthex/Abissal/Verus, armaduras, anéis, amuletos, sheltoms e itens premium).\n- Correção de itens que ficavam invisíveis ao serem jogados no chão (cristais, brincos, braceletes, armaduras e itens premium agora sempre exibem modelo 3D no chão).\n\nBom jogo a todos!",
   "server_status": "auto",
   "server_ip": "54.233.10.144",
   "server_port": 3390,
@@ -15,8 +15,8 @@
     {
       "name": "Game.exe",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-      "md5": "a1490de1c906c99db65c5f2a133c8f6a",
-      "size": 11012096
+      "md5": "ee3c99b00a707dfadec06be1a0657467",
+      "size": 11016192
     },
     {
       "name": "game/images/login/bg1.png",
