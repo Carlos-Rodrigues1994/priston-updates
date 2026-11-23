@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.10:\n- Level cap do servidor e do cliente aumentado para o nível 250!\n- Correções de imagens de itens no inventário e modelos 3D no chão mantidas.\n\nBom jogo a todos!",
+  "version": "1.0.11",
+  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.11:\n- Level cap do servidor e do cliente aumentado para o nível 250!\n- Correções de imagens de itens no inventário e modelos 3D no chão mantidas.\n\nBom jogo a todos!",
   "server_status": "auto",
   "server_ip": "54.233.10.144",
   "server_port": 3390,
@@ -15,7 +15,7 @@
     {
       "name": "Game.exe",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-      "md5": "d9dfb54534d8c63709a5eef92c7df7e9",
+      "md5": "f2c165a8d4a8e17348257786c0a28c8e",
       "size": 11016192
     },
     {
