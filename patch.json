@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.9:\n- Correção de itens sem imagem no inventário, loja, baú e troca (incluindo armas Verthex/Abissal/Verus, armaduras, anéis, amuletos, sheltoms e itens premium).\n- Correção de itens que ficavam invisíveis ao serem jogados no chão (cristais, brincos, braceletes, armaduras e itens premium agora sempre exibem modelo 3D no chão).\n\nBom jogo a todos!",
+  "version": "1.0.10",
+  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.10:\n- Level cap do servidor e do cliente aumentado para o nível 250!\n- Correções de imagens de itens no inventário e modelos 3D no chão mantidas.\n\nBom jogo a todos!",
   "server_status": "auto",
   "server_ip": "54.233.10.144",
   "server_port": 3390,
@@ -15,7 +15,7 @@
     {
       "name": "Game.exe",
       "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-      "md5": "ee3c99b00a707dfadec06be1a0657467",
+      "md5": "d9dfb54534d8c63709a5eef92c7df7e9",
       "size": 11016192
     },
     {
