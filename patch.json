@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.15",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.15:\n- Ajuste exato da pose de todos os machados de 2 mãos (parado/andando/correndo na horizontal ao lado do corpo, mantendo ataque de 2 mãos).\n- Treinamento de skills instantâneo, level cap 250 e imagens originais ativos.\n\nBom jogo a todos!",
+    "version":  "1.0.16",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.16:\n- Pose horizontal na cintura (sinWP1|sin04) aplicada a todos os machados de 2 mãos ao ficar parado, andar e correr, mantendo o golpe de 2 mãos ao atacar.\n- Treinamento de skills instantâneo, level cap 250 e imagens originais ativos.\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,7 +15,7 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "cb28824c20696b495086d6dab1b5c124",
+                      "md5":  "4821bfb57f847a3b7fd710ae1bd8d875",
                       "size":  11016192
                   },
                   {
