@@ -1,6 +1,6 @@
 {
-    "version":  "v1.0.17",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.17:\n- Postura padrao de machado de 2 maos (sinWA1|sin05) aplicada a todos os machados de 2 maos (incluindo WA131 e WA132).\n- Treinamento de skills instantaneo, level cap 250 e imagens originais ativos.\n\nBom jogo a todos!",
+    "version":  "v1.0.18",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.18:\n- Core Azul completamente reformulado com todos os 46 mapas (5 paginas) e destinos 100% corrigidos.\n- Sincronizacao automatica do CoreAzul.ini do servidor para o jogo (comando GM /reload_core).\n- Correcao do comando VIP /core (nao consome mais itens do inventario) e destaque visual dos mapas.\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,8 +15,8 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "96c5482d50bb4df8ce29595d610aedd7",
-                      "size":  11016192
+                      "md5":  "3a9d0e6a22a8b2ba06c52cc72c54ba31",
+                      "size":  11019264
                   },
                   {
                       "name":  "game/images/login/bg1.png",
@@ -161,6 +161,42 @@
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itBI274.bmp",
                       "md5":  "afd8eb0173d72480490c8a0cf56c809b",
                       "size":  1552
+                  },
+                  {
+                      "name":  "CoreAzul.ini",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/CoreAzul.ini",
+                      "md5":  "ab804171150ad79035d6b903f9b0e08a",
+                      "size":  6466
+                  },
+                  {
+                      "name":  "image/Sinimage/Help/haTeleport_Field[1].sin",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Help/haTeleport_Field%5B1%5D.sin",
+                      "md5":  "9c2acddb29528baf8b96b9dcdc592dc4",
+                      "size":  291
+                  },
+                  {
+                      "name":  "image/Sinimage/Help/haTeleport_Field[2].sin",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Help/haTeleport_Field%5B2%5D.sin",
+                      "md5":  "2bd0144b366606a78e1a72387d528aaa",
+                      "size":  324
+                  },
+                  {
+                      "name":  "image/Sinimage/Help/haTeleport_Field[3].sin",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Help/haTeleport_Field%5B3%5D.sin",
+                      "md5":  "788277d43afecb4dd93d730841ae4ee7",
+                      "size":  393
+                  },
+                  {
+                      "name":  "image/Sinimage/Help/haTeleport_Field[4].sin",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Help/haTeleport_Field%5B4%5D.sin",
+                      "md5":  "8b2da8d4d49cdd24ac4df50298b1319e",
+                      "size":  350
+                  },
+                  {
+                      "name":  "image/Sinimage/Help/haTeleport_Field[5].sin",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Help/haTeleport_Field%5B5%5D.sin",
+                      "md5":  "ca6a9a6245359d45651c7a8a103fb4a3",
+                      "size":  247
                   }
               ]
 }
