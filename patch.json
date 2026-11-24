@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.12",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.12:\n- Adicionadas as imagens originais do Amuleto Yagditha (OA129), Amuletos (OA126-128), Anéis (OR126-129), Sheltoms (OS116-119), Armadura Highlander (DA126), Roupão Arcanjo (DA226) e itens Premium.\n- Level cap 250 ativo.\n\nBom jogo a todos!",
+    "version":  "1.0.13",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.13:\n- Treinamento de magias/skills agora é instantâneo (removida a janela de confirmação ao distribuir pontos de skill).\n- Level cap 250 e imagens originais de itens ativos.\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,7 +15,7 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "f2c165a8d4a8e17348257786c0a28c8e",
+                      "md5":  "7d864ecf2cd5fb3e4a69c1623dddd92d",
                       "size":  11016192
                   },
                   {
