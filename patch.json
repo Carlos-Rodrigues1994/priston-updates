@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.14",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.14:\n- Todos os machados de 2 mãos agora usam a postura lateral em 1 mão em todas as classes.\n- Treinamento de skills instantâneo, level cap 250 e imagens originais ativos.\n\nBom jogo a todos!",
+    "version":  "1.0.15",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.15:\n- Ajuste exato da pose de todos os machados de 2 mãos (parado/andando/correndo na horizontal ao lado do corpo, mantendo ataque de 2 mãos).\n- Treinamento de skills instantâneo, level cap 250 e imagens originais ativos.\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,7 +15,7 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "b1798f2ab3517066e4ddab3be6439e85",
+                      "md5":  "cb28824c20696b495086d6dab1b5c124",
                       "size":  11016192
                   },
                   {
