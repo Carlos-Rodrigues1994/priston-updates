@@ -1,46 +1,166 @@
 {
-  "version": "1.0.11",
-  "news": "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.11:\n- Level cap do servidor e do cliente aumentado para o nível 250!\n- Correções de imagens de itens no inventário e modelos 3D no chão mantidas.\n\nBom jogo a todos!",
-  "server_status": "auto",
-  "server_ip": "54.233.10.144",
-  "server_port": 3390,
-  "server_message": "",
-  "files": [
-    {
-      "name": "Mix.ini",
-      "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Mix.ini",
-      "md5": "b96753d38c2e44d65d6405f27d37d9fe",
-      "size": 9252
-    },
-    {
-      "name": "Game.exe",
-      "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-      "md5": "f2c165a8d4a8e17348257786c0a28c8e",
-      "size": 11016192
-    },
-    {
-      "name": "game/images/login/bg1.png",
-      "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/game/images/login/bg1.png",
-      "md5": "0fb22fb5166f5d6373711ba8e26a285c",
-      "size": 6129748
-    },
-    {
-      "name": "game/images/premium/Vip.png",
-      "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/game/images/premium/Vip.png",
-      "md5": "b2ea839e9dbb110048073dcb5c236db8",
-      "size": 3105
-    },
-    {
-      "name": "game/images/premium/Vip_.png",
-      "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/game/images/premium/Vip_.png",
-      "md5": "a6a7566d9fba9e2702da38bc647a6bbe",
-      "size": 2481
-    },
-    {
-      "name": "Launcher.exe",
-      "url": "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Launcher.exe",
-      "md5": "5373f0bdc0e69158e428c224757b493f",
-      "size": 35840
-    }
-  ]
+    "version":  "1.0.12",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualização v1.0.12:\n- Adicionadas as imagens originais do Amuleto Yagditha (OA129), Amuletos (OA126-128), Anéis (OR126-129), Sheltoms (OS116-119), Armadura Highlander (DA126), Roupão Arcanjo (DA226) e itens Premium.\n- Level cap 250 ativo.\n\nBom jogo a todos!",
+    "server_status":  "auto",
+    "server_ip":  "54.233.10.144",
+    "server_port":  3390,
+    "server_message":  "",
+    "files":  [
+                  {
+                      "name":  "Mix.ini",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Mix.ini",
+                      "md5":  "b96753d38c2e44d65d6405f27d37d9fe",
+                      "size":  9252
+                  },
+                  {
+                      "name":  "Game.exe",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
+                      "md5":  "f2c165a8d4a8e17348257786c0a28c8e",
+                      "size":  11016192
+                  },
+                  {
+                      "name":  "game/images/login/bg1.png",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/game/images/login/bg1.png",
+                      "md5":  "0fb22fb5166f5d6373711ba8e26a285c",
+                      "size":  6129748
+                  },
+                  {
+                      "name":  "game/images/premium/Vip.png",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/game/images/premium/Vip.png",
+                      "md5":  "b2ea839e9dbb110048073dcb5c236db8",
+                      "size":  3105
+                  },
+                  {
+                      "name":  "game/images/premium/Vip_.png",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/game/images/premium/Vip_.png",
+                      "md5":  "a6a7566d9fba9e2702da38bc647a6bbe",
+                      "size":  2481
+                  },
+                  {
+                      "name":  "Launcher.exe",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Launcher.exe",
+                      "md5":  "5373f0bdc0e69158e428c224757b493f",
+                      "size":  35840
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOA126.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOA126.bmp",
+                      "md5":  "297384135f170d3bd6e20a7e65eaac29",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOA127.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOA127.bmp",
+                      "md5":  "0e9c22a208799c438c5e2837639e9839",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOA128.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOA128.bmp",
+                      "md5":  "13b6a1bd9942e9f1b32b3e12f7f7f3ce",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOA129.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOA129.bmp",
+                      "md5":  "4d68a6218f735e64e549eed3e35a856f",
+                      "size":  1990
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOR126.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOR126.bmp",
+                      "md5":  "cf276fc1eba73a31ccff18ea04c543e0",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOR127.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOR127.bmp",
+                      "md5":  "01d501c5eb395a2a184915822852a939",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOR128.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOR128.bmp",
+                      "md5":  "bbcab6df20ac497e764b7c04aee3d1bb",
+                      "size":  1550
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOR129.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOR129.bmp",
+                      "md5":  "7007e2bdad5713349ce44b9df758a93b",
+                      "size":  1992
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOS116.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOS116.bmp",
+                      "md5":  "4bd7c18096734d11b7fce3d7c4088764",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOS117.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOS117.bmp",
+                      "md5":  "f8a47aea98ec2ef2844f66f845a02727",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOS118.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOS118.bmp",
+                      "md5":  "e6b4cc053ad57d010679ef3155543683",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Accessory/itOS119.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Accessory/itOS119.bmp",
+                      "md5":  "5ccafd080f8b922c2715b616ffd471e5",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Defense/itDA126.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Defense/itDA126.bmp",
+                      "md5":  "9463508290be19ee2b8cc49e966e774b",
+                      "size":  17656
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Defense/itDA226.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Defense/itDA226.bmp",
+                      "md5":  "bfb1fce1a9b59e26fd7edfa89016edb2",
+                      "size":  17656
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Premium/itBI173.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itBI173.bmp",
+                      "md5":  "5f0a6c966282e4ca564dad8bbd06ba53",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Premium/itBI174.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itBI174.bmp",
+                      "md5":  "aab70eed47bb967019e7f00159b242a0",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Premium/itBI175.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itBI175.bmp",
+                      "md5":  "c26c781806da2689f76e9af433cc9730",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Premium/itBI176.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itBI176.bmp",
+                      "md5":  "5964d8f958d35d4ace3291f3ecb16359",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Premium/itBI273.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itBI273.bmp",
+                      "md5":  "579a2388aeaa61fd0df2ddbd2fa648ad",
+                      "size":  1552
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/Premium/itBI274.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itBI274.bmp",
+                      "md5":  "afd8eb0173d72480490c8a0cf56c809b",
+                      "size":  1552
+                  }
+              ]
 }
