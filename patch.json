@@ -1,6 +1,6 @@
 {
-    "version":  "v1.0.18",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.18:\n- Core Azul completamente reformulado com todos os 46 mapas (5 paginas) e destinos 100% corrigidos.\n- Sincronizacao automatica do CoreAzul.ini do servidor para o jogo (comando GM /reload_core).\n- Correcao do comando VIP /core (nao consome mais itens do inventario) e destaque visual dos mapas.\n\nBom jogo a todos!",
+    "version":  "v1.0.19",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.19:\n- Corrigido bug em que a imagem da arma de 2 maos sumia do slot secundario ao logar ou mexer em outros itens do inventario.\n- Corrigido recarregamento automatico de texturas de itens (sem double-Release e sem icones invisiveis).\n- Corrigida exibicao de icones com dimensoes diferentes do slot (como Machado Furia 1h WA125) sem repetir/cortar a imagem no inventario e no tooltip.\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,8 +15,8 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "3a9d0e6a22a8b2ba06c52cc72c54ba31",
-                      "size":  11019264
+                      "md5":  "f1092fc647743d0b45189c103c7a78a6",
+                      "size":  11023360
                   },
                   {
                       "name":  "game/images/login/bg1.png",
