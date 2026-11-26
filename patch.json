@@ -1,6 +1,6 @@
 {
-    "version":  "v1.0.20",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.20:\n- Novo Sistema de Reliquias de Bosses (12 Reliquias com bonus de HP, MP, STM, Ataque, Defesa, Absorcao, Critico, Taxa de Ataque, Velocidade, EXP e Drop) com persistencia no servidor!\n- Adicionado o Slot de Reliquias direto no Inventario para abrir e gerenciar suas Reliquias (ou comando /reliquias).\n- Novo comando CTRL+H para ocultar/exibir personagens que nao estao com o Modo Guerra ativado.\n- Novo comando CTRL+J para ocultar/exibir monstros na tela.\n- Bonus do Modo Guerra (+10% Drop Adicional) exibido diretamente no icone do Modo Guerra, no tooltip e na janela (tecla K).\n\nBom jogo a todos!",
+    "version":  "v1.0.21",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.21:\n- Visual do HP dos monstros e Bosses agora exibe o valor real completo configurado no servidor (suporte a HP acima de 32.767 e exibicao real de Bosses como Valento, Kelvezu e Mokova em vez de 500/500).\n- Corrigida leitura de atributos/resistencias dos monstros no servidor e bug de pocao duplicada em Bosses com VirtualLife.\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,8 +15,8 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "0fafc13e0c00f9d3ecb030d09b7010f7",
-                      "size":  11036672
+                      "md5":  "7d6f8e7eec80275e041be3f37ab3401b",
+                      "size":  11037696
                   },
                   {
                       "name":  "game/images/login/bg1.png",
