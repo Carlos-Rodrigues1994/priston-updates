@@ -1,6 +1,6 @@
 {
-    "version":  "v1.0.23",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.23:\n- Adicionados os 12 itens fisicos negociaveis das Reliquias (RL101 a RL112) com icones proprios!\n- Ao dropar de Boss ou remover uma Reliquia equipada, voce recebe o item fisico no inventario para negociar ou vender.\n\nBom jogo a todos!",
+    "version":  "v1.0.24",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.24:\n- Corrigido bug que abria a janela de Skin Changer sozinha durante o jogo.\n- Reliquias (RL101 a RL112) agora exibem a imagem oficial do cliente tanto no inventario quanto dentro da janela do Sistema de Reliquias!\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,8 +15,8 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "936b5f7fd9cc6d9af508745111177f2b",
-                      "size":  11038208
+                      "md5":  "8875c5c240334b133d4f412f93df817e",
+                      "size":  11039232
                   },
                   {
                       "name":  "game/images/login/bg1.png",
