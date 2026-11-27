@@ -1,6 +1,6 @@
 {
-    "version":  "v1.0.25",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.25:\n- Reliquias (RL101 a RL112) agora ocupam apenas 4 quadrados (2x2) no inventario mantendo a imagem proporcional!\n\nBom jogo a todos!",
+    "version":  "v1.0.26",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.26:\n- Agora os bonus das Reliquias (HP, MP, Atk, Def, Abs, Critico, Taxa, Vel, EXP, Drop e Nivel) aparecem diretamente na descricao (tooltip) do item no inventario, trade e loja!\n- Corrigido bug onde apenas GMs recebiam o item fisico da Reliquia ao remover ou dropar de Boss: agora todos os jogadores recebem normalmente no inventario!\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,8 +15,8 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "8571527edc33787d4349555d1da48ef5",
-                      "size":  11039232
+                      "md5":  "bb4be1b675d188e147f88ce4e2bd4a2a",
+                      "size":  11043328
                   },
                   {
                       "name":  "game/images/login/bg1.png",
