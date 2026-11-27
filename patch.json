@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.23",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.22:\n- Reliquias agora sao removiveis (botao Remover com confirmacao na janela de Reliquias) e podem ser comercializadas! Quando configuradas com ItemCode, ao remover a reliquia o item retorna ao inventario para venda/troca.\n\nBom jogo a todos!",
+    "version":  "v1.0.23",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.23:\n- Adicionados os 12 itens fisicos negociaveis das Reliquias (RL101 a RL112) com icones proprios!\n- Ao dropar de Boss ou remover uma Reliquia equipada, voce recebe o item fisico no inventario para negociar ou vender.\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,7 +15,7 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "e3b853f173bb60b4aea2be49f3847ad0",
+                      "md5":  "936b5f7fd9cc6d9af508745111177f2b",
                       "size":  11038208
                   },
                   {
@@ -211,67 +211,74 @@
                       "size":  1782
                   },
                   {
-                      "path":  "Game.exe",
-                      "md5":  "936b5f7fd9cc6d9af508745111177f2b",
-                      "size":  11038208
-                  },
-                  {
-                      "path":  "image/Sinimage/Items/Premium/itRL101.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL101.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL101.bmp",
                       "md5":  "81c6b151fdfbae8b1c41545bd382867f",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL102.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL102.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL102.bmp",
                       "md5":  "26c28d0ef7c6f64bd9e947ccd832413c",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL103.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL103.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL103.bmp",
                       "md5":  "5122b0d3408034d67de1b617a5cfa671",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL104.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL104.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL104.bmp",
                       "md5":  "6145ca58c28f2d115172553f3c86a3e9",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL105.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL105.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL105.bmp",
                       "md5":  "2b0c01525f3b7b091959165ef551824a",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL106.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL106.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL106.bmp",
                       "md5":  "929fd181798f3d067b5815949200e521",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL107.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL107.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL107.bmp",
                       "md5":  "5c3d979d60dd9a47b03bfa07b93aaf5b",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL108.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL108.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL108.bmp",
                       "md5":  "4a0998ae47aeb87c1f90790e2619cee2",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL109.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL109.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL109.bmp",
                       "md5":  "02f35d669a620280f57478228e4948e8",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL110.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL110.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL110.bmp",
                       "md5":  "87d186db6e06e6100450e89545c99bf0",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL111.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL111.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL111.bmp",
                       "md5":  "fd5fa4da9699969a91878b405d08fa86",
                       "size":  1550
                   },
                   {
-                      "path":  "image/Sinimage/Items/Premium/itRL112.bmp",
+                      "name":  "image/Sinimage/Items/Premium/itRL112.bmp",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL112.bmp",
                       "md5":  "fdaebcc4b9ccf0dc8dc60e46c309c104",
                       "size":  1550
                   }
