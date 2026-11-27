@@ -1,6 +1,6 @@
 {
-    "version":  "v1.0.26",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.26:\n- Agora os bonus das Reliquias (HP, MP, Atk, Def, Abs, Critico, Taxa, Vel, EXP, Drop e Nivel) aparecem diretamente na descricao (tooltip) do item no inventario, trade e loja!\n- Corrigido bug onde apenas GMs recebiam o item fisico da Reliquia ao remover ou dropar de Boss: agora todos os jogadores recebem normalmente no inventario!\n\nBom jogo a todos!",
+    "version":  "v1.0.27",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.27:\n- Agora basta clicar com o botao direito do mouse em qualquer Reliquia (RL101 a RL112) no inventario para ativa-la e equipa-la automaticamente!\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,8 +15,8 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "bb4be1b675d188e147f88ce4e2bd4a2a",
-                      "size":  11043328
+                      "md5":  "68bb5cc873b6315606dd835c7672304b",
+                      "size":  11043840
                   },
                   {
                       "name":  "game/images/login/bg1.png",
