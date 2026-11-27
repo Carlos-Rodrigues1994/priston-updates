@@ -1,6 +1,6 @@
 {
-    "version":  "v1.0.21",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.21:\n- Visual do HP dos monstros e Bosses agora exibe o valor real completo configurado no servidor (suporte a HP acima de 32.767 e exibicao real de Bosses como Valento, Kelvezu e Mokova em vez de 500/500).\n- Corrigida leitura de atributos/resistencias dos monstros no servidor e bug de pocao duplicada em Bosses com VirtualLife.\n\nBom jogo a todos!",
+    "version":  "v1.0.22",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.22:\n- Reliquias agora sao removiveis (botao Remover com confirmacao na janela de Reliquias) e podem ser comercializadas! Quando configuradas com ItemCode, ao remover a reliquia o item retorna ao inventario para venda/troca.\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -15,8 +15,8 @@
                   {
                       "name":  "Game.exe",
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/Game.exe",
-                      "md5":  "7d6f8e7eec80275e041be3f37ab3401b",
-                      "size":  11037696
+                      "md5":  "e3b853f173bb60b4aea2be49f3847ad0",
+                      "size":  11038208
                   },
                   {
                       "name":  "game/images/login/bg1.png",
