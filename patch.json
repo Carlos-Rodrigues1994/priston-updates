@@ -1,6 +1,6 @@
 {
-    "version":  "v1.0.27",
-    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.27:\n- Agora basta clicar com o botao direito do mouse em qualquer Reliquia (RL101 a RL112) no inventario para ativa-la e equipa-la automaticamente!\n\nBom jogo a todos!",
+    "version":  "v1.0.28",
+    "news":  "Bem-vindo ao OrientePT/PK!\n\nAtualizacao v1.0.28:\n- Adicionados os modelos 3D e texturas de chao da Armadura Magica (DA126) e do Roupao Magico (DA226) para aparecerem normalmente ao cair no chao!\n\nBom jogo a todos!",
     "server_status":  "auto",
     "server_ip":  "54.233.10.144",
     "server_port":  3390,
@@ -281,6 +281,30 @@
                       "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/Premium/itRL112.bmp",
                       "md5":  "fdaebcc4b9ccf0dc8dc60e46c309c104",
                       "size":  1550
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/DropItem/itda126.smd",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/DropItem/itda126.smd",
+                      "md5":  "099770c919f55088a50cee92ee8fcd67",
+                      "size":  5440
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/DropItem/itDA126.tga",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/DropItem/itDA126.tga",
+                      "md5":  "009905bdeaf95339df9808d31b056bc6",
+                      "size":  49196
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/DropItem/itda226.smd",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/DropItem/itda226.smd",
+                      "md5":  "70e4c71c7b13b083d2a0107e363dc9f7",
+                      "size":  5440
+                  },
+                  {
+                      "name":  "image/Sinimage/Items/DropItem/itDA226.tga",
+                      "url":  "https://raw.githubusercontent.com/Carlos-Rodrigues1994/priston-updates/main/patch_files/image/Sinimage/Items/DropItem/itDA226.tga",
+                      "md5":  "3515183dca6a51661ade910b48f1c8d7",
+                      "size":  49196
                   }
               ]
 }
